@@ -1,0 +1,45 @@
+img {
+    width: 50px;
+}
+
+#face {
+    width: 600px;
+    position: absolute;
+}
+
+#hair {
+    position: absolute;
+    width: 600px;
+}
+
+#mouth {
+    position: absolute;
+    width: 600px;
+}
+
+#headband {
+    position: absolute;
+    width: 600px;
+}
+
+#eyes {
+    position: absolute;
+    width: 600px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+#title {
+    background-color: yellow;
+    border-radius: 30px;
+    color: blue;
+}
+
+#tagline {
+    background-color: yellow;
+    border-radius: 30px;
+    color: blue;
+}
